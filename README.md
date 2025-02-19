@@ -17,8 +17,8 @@ This analysis focuses on traffic collision patterns in Brooklyn (2019-2020), usi
 
 - **Python**: Core language for data processing and analysis.  
 - **Pandas & NumPy**: Data manipulation and preprocessing.  
-- **Folium & Matplotlib**: Geospatial visualization of accident locations.  
-- **Seaborn**: Statistical trend analysis and visual representation.  
+- **Folium**: Geospatial visualization of accident locations.  
+- **Matplotlib**: Statistical trend analysis and visual representation.  
 
 ## Results and Insights
 
